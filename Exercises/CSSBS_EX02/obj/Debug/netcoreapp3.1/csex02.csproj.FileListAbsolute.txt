@@ -1,0 +1,13 @@
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\bin\Debug\netcoreapp3.1\csex02.exe
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\bin\Debug\netcoreapp3.1\csex02.deps.json
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\bin\Debug\netcoreapp3.1\csex02.runtimeconfig.json
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\bin\Debug\netcoreapp3.1\csex02.runtimeconfig.dev.json
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\bin\Debug\netcoreapp3.1\csex02.dll
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\bin\Debug\netcoreapp3.1\csex02.pdb
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.csprojAssemblyReference.cache
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.AssemblyInfoInputs.cache
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.AssemblyInfo.cs
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.csproj.CoreCompileInputs.cache
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.dll
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.pdb
+C:\Users\McThug\quantico06\ISTA220\Exercises\csex02\obj\Debug\netcoreapp3.1\csex02.genruntimeconfig.cache

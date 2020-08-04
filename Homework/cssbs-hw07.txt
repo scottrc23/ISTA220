@@ -1,0 +1,71 @@
+Rhay C. Scott
+CSSBS-HW07
+July 27, 2020
+
+1. What is a class? According to the book, what does a class \arrange?"
+
+-A class defines the kinds of data and the functionality their objects will have. A class enables you to create your custom types by grouping variables of other types, methods, and events.
+
+-Class arranges attributes of how certain code in programming operates.
+
+2. What are the two purposes of encapsulation?
+
+-To combine methods and data within a class; in other words, to support classification
+-To control the accessibility of the methods and data; in other words, to control the use of the class
+
+3. How do you instantiate an instance of a class? How do you access that instance?
+
+-In C#, you use the class keyword to define a new class. The data and methods of the class occur in the body of the class between a pair of braces.
+
+If you need to use it as a type, you declare it.
+
+4. What is the default access of the fields and methods of a class? How do you change the default?
+
+A method or field is private if it is accessible only from within the class. To declare that a method or field is private, you write the keyword private before its declaration. As intimated previously, this is actually the default, but it is good practice to state explicitly that fields and methods are private to avoid any confusion.A method or field is public if it is accessible both within and from outside the class. To declare that a method or field is public, you write the keyword public before its declaration.
+
+5. What is the syntax for writing a constructor?
+
+A private constructor must start with a capital letter. A constructor is a special method that runs automatically when you create an instance of a class. 
+ 
+className( parameterList ) { Statements involving the variables of the class and the parameters in the parameterList. } A constructor always returns a reference to the object it constructs.
+
+6. What is the difference between class fields and methods, and instance fields ad methods? How do you
+create class fields and methods?
+
+-Instance method are methods which require an object of its class to be created before it can be called. To invoke a instance method, we have to create an Object of the class in within which it defined.
+
+-A field is a variable of any type that is declared directly in a class or struct. ... Instance fields are specific to an instance of a type.
+
+
+7. How do you bring a static class in scope? Why would you want to bring a static class in scope?
+
+ Static using statements enable you to bring a class into scope and omit the class name when accessing static members. They operate in much the same way as ordinary using statements that bring namespaces into scope.
+
+8. Can you think of a good reason to create an anonymous class? What is it?
+
+Anonymous class is a class that has no name and that can help us to increase the readability and maintainability of applications by keeping the declarations of variables closer to the code that uses it.
+
+In C#, an anonymous type is a type (class) without any name that can contain public read-only properties only. It cannot contain other members, such as fields, methods, events, etc. You create an anonymous type using the new operator with an object initializer syntax.
+
+9. What is polymorphism as this term is used in computer science? This is not in the book.
+
+n c#, Polymorphism means providing an ability to take more than one form and it's one of the main pillar concepts of object-oriented programming, after encapsulation and inheritance. Generally, the polymorphism is a combination of two words, one is poly and another one is morphs.
+
+10. What is message passing as this term is used in computer science? This is not in the book.
+
+In computer science, message passing is a technique for invoking behavior (i.e., running a program) on a computer. The invoking program sends a message to a process (which may be an actor or object) and relies on that process and its supporting infrastructure to then select and run some appropriate code. Message passing differs from conventional programming where a process, subroutine, or function is directly invoked by name. Message passing is key to some models of concurrency and object-oriented programming.
+
+11. What was the first object-oriented programming language?
+
+Simula (1967) is generally accepted as being the first language with the primary features of an object-oriented language. It was created for making simulation programs, in which what came to be called objects were the most important information representation.
+
+12. Consider this quote by Alexander Stepanov:
+I find OOP technically unsound. It attempts to decompose the world in terms of interfaces
+that vary on a single type. To deal with the real problems you need multisorted algebras
+| families of interfaces that span multiple types. I find OOP philosophically unsound. It
+claims that everything is an object. Even if it is true it is not very interesting | saying that
+everything is an object is saying nothing at all.
+
+Who is Alexander Stephanov? What do you think about this quote?
+
+Alexander Stepanov is an advocate of generic programming. Although David Musser had already developed and advocated some aspects of generic programming by 1971, it was limited to a rather specialized area of software development (computer algebra).

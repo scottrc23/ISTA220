@@ -1,0 +1,56 @@
+Name:  Rhay C. Scott
+File:  CSSBS-HW02
+Date:  July 7, 2020
+
+
+1.  Local variables (variables that exist only in a method or another small section of code (a block - access these variables only within that block).
+
+2.  A statement is a command that performs an action such as calculating a value and storing the result or displaying a message to a user. You combine statements to create methods.  Syntax rule says they must end with a semicolon.
+
+3.  Identifiers are the names that you use to identify the elements in your programs, such as namespaces, classes, methods, and variables.  Must start with a letter or underscore.  Can only use letter, digits, and underscores.
+
+4. Keywords are predefined, reserved identifiers that have special meanings to the compiler. C# language reserves 77 identifiers for its own use, and you cannot reuse these identifiers for your own purposes.  Examples of keywords are class, namespace, and using and are colored blue.
+
+5.  A variable is a storage location that holds a value. You use a variable’s name to refer to the value it holds and later on, if you refer to the variable, the value is retrieved.
+
+6.      *Specify the type of data it will hold by declaring the type and name of a variable in a declaration statement ended by a semicolon.
+	*After you’ve declared your variable, you can assign it a value. Use an assignment operator, which assigns the value on its right to the variable on its left.
+	*When you declare a variable, it contains a random value until you assign a value to it.C# does not allow you to use an unassigned variable-otherwise, your program will not compile.  his requirement is called the definite assignment rule.
+	*Yes. var a = "Hello World";
+
+7.  Visual Studio 2017 automatically creates a new solution file for it. This situation can be confusing if you are not aware of this feature because it can result in you accidentally generating multiple solutions for the same project. 
+ 
+8.  The symbols +, –, *, and / are called operators because they “operate” on values to create new values. Variable types determine how value is evaluated.  They both control different aspects of value output.
+
+
+9.  Use string concatenation, string formatting, string building, and use built-in conversion methods.  The Int32.ToString() method converts the numeric value to its equivalent string representation.
+int val = 4;
+
+            string msg = "There are " + Convert.ToString(val) + " hawks";
+            string msg2 = string.Format("There are {0} hawks", val);
+            string msg3 = $"There are {val} hawks";
+
+10.  The .NET Framework provides a method called Int32.Parse that you can use to convert a string value to an integer if you need to perform arithmetic computations on values held as strings.
+
+
+11.  Precedence governs the order in which an expression’s operators are evaluated.  Associativity is the direction (left or right) in which the operands of an operator are evaluated.
+
+(2 + 3) * 4 Precedence says * is handled before +.
+4 / 2 * 6 Precedence can't eval this because * and / are equals. Associativity says / and * are left to right traits and operates accordingly.
+
+
+12.     *A variable must be definitely assigned at each location where its value is obtained. ...
+	*A variable must be definitely assigned at each location where it is passed as a reference parameter.
+
+
+13.  Whether you use the prefix or postfix form of the ++ or -- operator makes no difference to the variable being incremented or decremented. It does affect how the value is evaluated when the variable is assessed in the operation prior to the increment/decrement.
+
+
+14.  C# string interpolation is a method of concatenating, formatting and manipulating strings.Syntax of string interpolation starts with a ‘$’ symbol and expressions are defined within a bracket {} using the following syntax.
+
+note: Concatenation is the process of appending one string to the end of another string. You concatenate strings by using the + operator. String interpolation is also arguably more readable and less error-prone.
+
+15.  When you declare a variable in C# by using the var keyword, the type of values that you assign to the variable cannot change from that used to initialize the variable.
+
+
+

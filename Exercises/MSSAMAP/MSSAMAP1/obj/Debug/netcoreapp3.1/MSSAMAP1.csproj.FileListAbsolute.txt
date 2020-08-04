@@ -1,0 +1,13 @@
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\bin\Debug\netcoreapp3.1\MSSAMAP1.exe
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\bin\Debug\netcoreapp3.1\MSSAMAP1.deps.json
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\bin\Debug\netcoreapp3.1\MSSAMAP1.runtimeconfig.json
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\bin\Debug\netcoreapp3.1\MSSAMAP1.runtimeconfig.dev.json
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\bin\Debug\netcoreapp3.1\MSSAMAP1.dll
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\bin\Debug\netcoreapp3.1\MSSAMAP1.pdb
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.csprojAssemblyReference.cache
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.AssemblyInfoInputs.cache
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.AssemblyInfo.cs
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.csproj.CoreCompileInputs.cache
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.dll
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.pdb
+C:\Users\McThug\quantico06\ISTA220\Labs\MSSAMAP1\obj\Debug\netcoreapp3.1\MSSAMAP1.genruntimeconfig.cache

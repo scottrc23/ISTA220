@@ -1,0 +1,479 @@
+Name:  Rhay Scott	
+File:  lab00a-carter.txt
+Date:  July 1, 2020
+
+Microsoft Windows [Version 10.0.18362.900]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\McThug>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 22EE-FF1E
+
+ Directory of C:\Users\McThug
+
+07/01/2020  10:01 AM    <DIR>          .
+07/01/2020  10:01 AM    <DIR>          ..
+07/01/2020  09:29 AM    <DIR>          .atom
+07/01/2020  03:44 AM    <DIR>          .dotnet
+06/30/2016  08:58 PM    <DIR>          .oracle_jre_usage
+04/09/2020  12:27 PM    <DIR>          .templateengine
+06/10/2020  07:19 PM    <DIR>          3D Objects
+03/15/2016  11:06 PM             4,158 ACTIVstudioError.log
+06/10/2020  07:19 PM    <DIR>          Contacts
+09/06/2019  10:35 AM    <DIR>          Creative Cloud Files
+07/01/2020  08:04 AM    <DIR>          Desktop
+06/23/2020  01:04 PM    <DIR>          Documents
+07/01/2020  08:01 AM    <DIR>          Downloads
+06/27/2020  02:15 PM    <DIR>          Favorites
+07/01/2020  09:26 AM             7,140 helpfile1.txt
+07/01/2020  09:28 AM             7,136 helpfile2.txt
+07/01/2020  09:30 AM            11,482 helpfile3.txt
+06/10/2020  07:19 PM    <DIR>          Links
+06/10/2020  07:19 PM    <DIR>          Music
+06/27/2020  05:46 PM    <DIR>          OneDrive
+06/10/2020  07:19 PM    <DIR>          Pictures
+07/01/2020  10:04 AM           442,466 PowerShell_transcript.MCTHUGGER.w+JeuCKQ.20200701100145.txt
+12/14/2016  10:38 AM    <DIR>          rhay.scott@outlook.com Creative Cloud Files
+06/10/2020  07:19 PM    <DIR>          Saved Games
+06/10/2020  07:19 PM    <DIR>          Searches
+03/16/2020  11:42 AM    <DIR>          source
+06/10/2020  07:19 PM    <DIR>          Videos
+               5 File(s)        472,382 bytes
+              22 Dir(s)  76,142,731,264 bytes free
+
+C:\Users\McThug>mkdir
+The syntax of the command is incorrect.
+
+C:\Users\McThug>make?
+'make?' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>make directory
+'make' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>make?
+'make?' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>?
+'?' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\McThug>MKDIR
+The syntax of the command is incorrect.
+
+C:\Users\McThug>C:
+
+C:\Users\McThug>D:
+
+D:\>MKDIR
+The syntax of the command is incorrect.
+
+D:\>MAKE DIR
+'MAKE' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\>MAKE DIR
+'MAKE' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\>MAKE DIRECTORY
+'MAKE' is not recognized as an internal or external command,
+operable program or batch file.
+
+D:\>C:
+
+C:\Users\McThug>DIR
+ Volume in drive C has no label.
+ Volume Serial Number is 22EE-FF1E
+
+ Directory of C:\Users\McThug
+
+07/01/2020  10:01 AM    <DIR>          .
+07/01/2020  10:01 AM    <DIR>          ..
+07/01/2020  09:29 AM    <DIR>          .atom
+07/01/2020  03:44 AM    <DIR>          .dotnet
+06/30/2016  08:58 PM    <DIR>          .oracle_jre_usage
+04/09/2020  12:27 PM    <DIR>          .templateengine
+06/10/2020  07:19 PM    <DIR>          3D Objects
+03/15/2016  11:06 PM             4,158 ACTIVstudioError.log
+06/10/2020  07:19 PM    <DIR>          Contacts
+09/06/2019  10:35 AM    <DIR>          Creative Cloud Files
+07/01/2020  08:04 AM    <DIR>          Desktop
+06/23/2020  01:04 PM    <DIR>          Documents
+07/01/2020  08:01 AM    <DIR>          Downloads
+06/27/2020  02:15 PM    <DIR>          Favorites
+07/01/2020  09:26 AM             7,140 helpfile1.txt
+07/01/2020  09:28 AM             7,136 helpfile2.txt
+07/01/2020  09:30 AM            11,482 helpfile3.txt
+06/10/2020  07:19 PM    <DIR>          Links
+06/10/2020  07:19 PM    <DIR>          Music
+06/27/2020  05:46 PM    <DIR>          OneDrive
+06/10/2020  07:19 PM    <DIR>          Pictures
+07/01/2020  10:04 AM           442,466 PowerShell_transcript.MCTHUGGER.w+JeuCKQ.20200701100145.txt
+12/14/2016  10:38 AM    <DIR>          rhay.scott@outlook.com Creative Cloud Files
+06/10/2020  07:19 PM    <DIR>          Saved Games
+06/10/2020  07:19 PM    <DIR>          Searches
+03/16/2020  11:42 AM    <DIR>          source
+06/10/2020  07:19 PM    <DIR>          Videos
+               5 File(s)        472,382 bytes
+              22 Dir(s)  76,140,593,152 bytes free
+
+C:\Users\McThug>IPCONFIG
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Unknown adapter NordLynx:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : fios-router.home
+   IPv4 Address. . . . . . . . . . . : 192.168.1.201
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.1.1
+
+C:\Users\McThug>MKDIR
+The syntax of the command is incorrect.
+
+C:\Users\McThug>MK DIR
+'MK' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>MK DIR
+'MK' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\McThug>mkdir?
+'mkdir?' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>mkdir
+The syntax of the command is incorrect.
+
+C:\Users\McThug>.
+'.' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\McThug>cd ..
+
+C:\Users>mkdir
+The syntax of the command is incorrect.
+
+C:\Users>date
+The current date is: Wed 07/01/2020
+Enter the new date: (mm-dd-yy) exit
+The system cannot accept the date entered.
+Enter the new date: (mm-dd-yy)
+C:\Users>md
+The syntax of the command is incorrect.
+
+C:\Users>cd ..
+
+C:\>cd .
+
+C:\>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 22EE-FF1E
+
+ Directory of C:\
+
+09/25/2019  06:56 PM    <DIR>          inetpub
+11/21/2016  07:20 PM    <DIR>          Logs
+12/27/2014  01:56 AM    <DIR>          NVIDIA
+04/09/2020  12:28 PM    <DIR>          pa
+05/15/2020  12:31 AM    <DIR>          PerfLogs
+07/01/2020  05:29 AM    <DIR>          Program Files
+07/01/2020  05:31 AM    <DIR>          Program Files (x86)
+07/01/2020  02:17 AM    <DIR>          SQL2019
+06/08/2020  11:36 AM    <DIR>          totalcmd
+09/25/2019  03:37 PM    <DIR>          Users
+06/10/2020  07:15 PM    <DIR>          Windows
+               0 File(s)              0 bytes
+              11 Dir(s)  76,135,772,160 bytes free
+
+C:\>cd users
+
+C:\Users>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 22EE-FF1E
+
+ Directory of C:\Users
+
+09/25/2019  03:37 PM    <DIR>          .
+09/25/2019  03:37 PM    <DIR>          ..
+09/22/2016  11:05 AM    <DIR>          Default.migrated
+09/27/2019  12:34 AM    <DIR>          DefaultAppPool
+07/01/2020  10:01 AM    <DIR>          McThug
+09/25/2019  07:26 PM    <DIR>          Public
+               0 File(s)              0 bytes
+               6 Dir(s)  76,135,768,064 bytes free
+
+C:\Users>cd mcthug
+
+ Directory of C:\Users\McThug
+
+07/01/2020  10:38 AM    <DIR>          .
+07/01/2020  10:38 AM    <DIR>          ..
+07/01/2020  09:29 AM    <DIR>          .atom
+07/01/2020  03:44 AM    <DIR>          .dotnet
+06/30/2016  08:58 PM    <DIR>          .oracle_jre_usage
+04/09/2020  12:27 PM    <DIR>          .templateengine
+06/10/2020  07:19 PM    <DIR>          3D Objects
+03/15/2016  11:06 PM             4,158 ACTIVstudioError.log
+06/10/2020  07:19 PM    <DIR>          Contacts
+09/06/2019  10:35 AM    <DIR>          Creative Cloud Files
+07/01/2020  08:04 AM    <DIR>          Desktop
+06/23/2020  01:04 PM    <DIR>          Documents
+07/01/2020  08:01 AM    <DIR>          Downloads
+06/27/2020  02:15 PM    <DIR>          Favorites
+07/01/2020  09:26 AM             7,140 helpfile1.txt
+07/01/2020  09:28 AM             7,136 helpfile2.txt
+07/01/2020  09:30 AM            11,482 helpfile3.txt
+07/01/2020  10:38 AM    <DIR>          lab
+06/10/2020  07:19 PM    <DIR>          Links
+06/10/2020  07:19 PM    <DIR>          Music
+06/27/2020  05:46 PM    <DIR>          OneDrive
+06/10/2020  07:19 PM    <DIR>          Pictures
+07/01/2020  10:04 AM           442,466 PowerShell_transcript.MCTHUGGER.w+JeuCKQ.20200701100145.txt
+12/14/2016  10:38 AM    <DIR>          rhay.scott@outlook.com Creative Cloud Files
+06/10/2020  07:19 PM    <DIR>          Saved Games
+06/10/2020  07:19 PM    <DIR>          Searches
+03/16/2020  11:42 AM    <DIR>          source
+06/10/2020  07:19 PM    <DIR>          Videos
+               5 File(s)        472,382 bytes
+              23 Dir(s)  76,135,698,432 bytes free
+
+C:\Users\McThug>cd lab
+
+C:\Users\McThug\lab>cd ..
+
+C:\Users\McThug>md ISTA220
+
+C:\Users\McThug>cd ista220
+
+C:\Users\McThug\ISTA220>md Homework
+
+C:\Users\McThug\ISTA220>md Exercises
+
+C:\Users\McThug\ISTA220>md Labs
+
+C:\Users\McThug\ISTA220>cd labs
+
+C:\Users\McThug\ISTA220\Labs>notepad lab00a-rhay.txt
+
+C:\Users\McThug\ISTA220\Labs>
