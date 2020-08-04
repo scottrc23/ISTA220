@@ -1,7 +1,0 @@
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\bin\Debug\MSSA_MAP.exe.config
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\bin\Debug\MSSA_MAP.exe
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\bin\Debug\MSSA_MAP.pdb
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\obj\Debug\MSSA_MAP.csprojAssemblyReference.cache
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\obj\Debug\MSSA_MAP.csproj.CoreCompileInputs.cache
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\obj\Debug\MSSA_MAP.exe
-C:\Users\McThug\quantico06\ISTA220\Labs\MSSA_MAP\obj\Debug\MSSA_MAP.pdb
